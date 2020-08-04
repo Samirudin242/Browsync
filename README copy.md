@@ -1,0 +1,2 @@
+# Browsync Desktop
+Beta version
